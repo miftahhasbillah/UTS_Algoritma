@@ -54,7 +54,7 @@ Soal 2
 Alur alogaritma
 	1. mendeklarasikan int N,X,T,Batas
 	2. mengisi nilai variabel
-		N= 27
+		N= 87
 		Batas = N + 100
 		X = 10
 		T = N 
@@ -70,7 +70,7 @@ Bahasa C++ nya
 using namespace std;
 int main()
 {int N,X,T,Batas;
-N =85;
+N =87;
 Batas = N + 100;
 X = 20
 T = N;
